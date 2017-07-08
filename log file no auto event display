@@ -1,0 +1,692 @@
+run:
+getMatches
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at sportradartest.SportradarTest.getMatches(SportradarTest.java:43)
+	at sportradartest.UI$2.actionPerformed(UI.java:76)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+20:10:27.399 [AWT-EventQueue-0] INFO  com.sportradar.sdk.feed.sdk.Sdk - Initializing SDK dependency injector
+20:10:27.407 [AWT-EventQueue-0] INFO  c.s.s.c.s.PropertyFileSettingsLoader - Listing all passed sdk settings : 
+sdk.livescout.use_ssl : true
+sdk.livescout.enabled : true
+sdk.livescout.username : osos13
+sdk.livescout.test : false
+sdk.livescout.password : ***
+sdk.livescout.client_alive_msg_timeout : 00:00:00:10
+
+20:10:27.993 [AWT-EventQueue-0] INFO  c.s.sdk.common.classes.SdkVersion - SDK starting up, version javasdk-1.6.4.0
+20:10:28.889 [AWT-EventQueue-0] INFO  c.s.common.networking.TcpGateway - Connection to the server scout.betradar.com:2017 established
+onFeedEvent
+20:10:31.549 [bookmaker-sdk-pool-1-thread-8] DEBUG c.s.sdk.proto.LiveFeedProtocol - LOGIN_OK response received
+onOpened
+getMatches
+onMatchListReceived
+displayMatches
+951
+20:12:28.515 [bookmaker-sdk-pool-1-thread-9] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 1, next check in 4742 ms
+20:12:33.259 [bookmaker-sdk-pool-1-thread-2] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 0 ms
+20:12:33.260 [bookmaker-sdk-pool-1-thread-2] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+20:14:33.267 [bookmaker-sdk-pool-1-thread-2] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+20:16:33.275 [bookmaker-sdk-pool-1-thread-9] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+20:18:33.283 [bookmaker-sdk-pool-1-thread-9] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+20:20:33.290 [bookmaker-sdk-pool-1-thread-2] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onInitialized
+onFullMatchUpdateReceived
+displayEvents
+onFullMatchUpdateReceived
+displayEvents
+onOddsSuggestionReceived
+onFullMatchUpdateReceived
+displayEvents
+onFullMatchUpdateReceived
+displayEvents
+onOddsSuggestionReceived
+20:22:33.298 [bookmaker-sdk-pool-1-thread-11] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 4, next check in 8864 ms
+20:22:42.164 [bookmaker-sdk-pool-1-thread-1] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 3, next check in 11634 ms
+20:22:53.800 [bookmaker-sdk-pool-1-thread-9] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 2, next check in 79976 ms
+20:24:13.781 [bookmaker-sdk-pool-1-thread-11] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 1, next check in 15598 ms
+20:24:29.381 [bookmaker-sdk-pool-1-thread-11] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 0 ms
+20:24:29.381 [bookmaker-sdk-pool-1-thread-11] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+20:26:29.389 [bookmaker-sdk-pool-1-thread-3] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+20:28:29.396 [bookmaker-sdk-pool-1-thread-3] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+20:30:29.403 [bookmaker-sdk-pool-1-thread-3] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+20:32:29.410 [bookmaker-sdk-pool-1-thread-1] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+20:34:29.417 [bookmaker-sdk-pool-1-thread-11] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+20:36:29.424 [bookmaker-sdk-pool-1-thread-3] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+20:38:29.431 [bookmaker-sdk-pool-1-thread-3] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+20:40:29.438 [bookmaker-sdk-pool-1-thread-9] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+20:42:29.445 [bookmaker-sdk-pool-1-thread-1] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+20:44:29.452 [bookmaker-sdk-pool-1-thread-9] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+20:46:29.459 [bookmaker-sdk-pool-1-thread-9] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+20:48:29.466 [bookmaker-sdk-pool-1-thread-2] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+20:50:29.473 [bookmaker-sdk-pool-1-thread-1] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+20:52:29.480 [bookmaker-sdk-pool-1-thread-11] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+20:54:29.487 [bookmaker-sdk-pool-1-thread-1] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+20:56:29.494 [bookmaker-sdk-pool-1-thread-9] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+20:58:29.502 [bookmaker-sdk-pool-1-thread-1] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+21:00:29.509 [bookmaker-sdk-pool-1-thread-2] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+21:02:29.516 [bookmaker-sdk-pool-1-thread-11] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+21:04:29.523 [bookmaker-sdk-pool-1-thread-1] INFO  c.s.common.rategate.SimpleRateGate - scoutRequestLimit remaining entries 0, next check in 120000 ms
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateUpdateReceived
+onOddsSuggestionReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onMatchDeltaUpdateReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived
+onOddsSuggestionReceived

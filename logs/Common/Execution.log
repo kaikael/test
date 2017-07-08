@@ -1,0 +1,561 @@
+2017-07-06 13:00:21,643 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:00:24,624 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 13:17:51,910 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:17:54,192 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 13:25:40,461 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:25:42,708 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 13:27:28,873 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:27:31,423 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 13:31:39,737 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:31:42,152 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 13:34:06,813 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:34:09,072 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 13:39:33,716 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:39:36,092 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 13:40:13,877 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:40:15,762 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 13:41:18,329 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:41:20,598 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 13:42:17,168 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 13:42:19,053 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 14:11:51,808 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 14:11:54,334 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 14:20:47,024 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 14:20:49,320 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 14:22:46,662 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 3, next check in 4107 ms
+2017-07-06 14:22:50,770 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 2, next check in 86366 ms
+2017-07-06 14:24:17,133 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 3, next check in 3 ms
+2017-07-06 14:24:17,137 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 2, next check in 9111 ms
+2017-07-06 14:24:26,249 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 1, next check in 39525 ms
+2017-07-06 14:25:05,774 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 0 ms
+2017-07-06 14:25:05,775 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 14:27:05,770 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 14:29:05,766 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 14:30:13,147 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 14:30:15,594 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 14:32:12,780 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 1, next check in 5053 ms
+2017-07-06 14:32:17,836 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 0 ms
+2017-07-06 14:32:17,837 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 14:34:17,844 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 14:36:17,852 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 14:56:42,283 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 14:56:44,819 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 14:56:51,179 [c.s.s.d.l.EntityEventHandler] [bookmaker-sdk-pool-1-thread-4] [WARN] User handler for onMatchListReceived threw exception
+java.lang.NullPointerException: null
+	at sportradartest.LiveScoutFeedListenerImpl.onMatchListReceived(LiveScoutFeedListenerImpl.java:80) ~[classes/:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchMatchList(EntityEventHandler.java:123) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.LoggingEntityEventHandler.dispatchMatchList(LoggingEntityEventHandler.java:117) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.StatisticsLiveScoutEntityEventHandler.dispatchMatchList(StatisticsLiveScoutEntityEventHandler.java:101) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchEntity(EntityEventHandler.java:196) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:85) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:18) [sdk.jar:na]
+	at com.sportradar.sdk.shaded.com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:133) [sdk.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_131]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_131]
+2017-07-06 14:57:34,004 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 14:57:36,052 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 14:57:40,871 [c.s.s.d.l.EntityEventHandler] [bookmaker-sdk-pool-1-thread-4] [WARN] User handler for onMatchListReceived threw exception
+java.lang.NullPointerException: null
+	at sportradartest.LiveScoutFeedListenerImpl.onMatchListReceived(LiveScoutFeedListenerImpl.java:80) ~[classes/:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchMatchList(EntityEventHandler.java:123) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.LoggingEntityEventHandler.dispatchMatchList(LoggingEntityEventHandler.java:117) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.StatisticsLiveScoutEntityEventHandler.dispatchMatchList(StatisticsLiveScoutEntityEventHandler.java:101) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchEntity(EntityEventHandler.java:196) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:85) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:18) [sdk.jar:na]
+	at com.sportradar.sdk.shaded.com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:133) [sdk.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_131]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_131]
+2017-07-06 14:58:35,626 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 14:58:37,552 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 15:00:35,278 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 2, next check in 3628 ms
+2017-07-06 15:00:38,908 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 1, next check in 19521 ms
+2017-07-06 15:00:58,432 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 0 ms
+2017-07-06 15:00:58,432 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 15:02:58,439 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 15:03:25,779 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 15:03:28,385 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 15:04:58,447 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 15:06:58,455 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 15:08:51,209 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 15:08:53,892 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 15:39:13,376 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 15:39:15,695 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 15:40:35,180 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 15:40:37,336 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 15:45:22,529 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 15:45:24,461 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_FAILED response received.
+2017-07-06 15:45:25,135 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 15:47:22,181 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 4, next check in 360 ms
+2017-07-06 15:47:22,542 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 3, next check in 6869 ms
+2017-07-06 15:47:33,009 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 15:47:35,267 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 15:48:41,713 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 15:48:43,608 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 16:21:21,394 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 16:21:23,689 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 16:21:27,681 [c.s.s.d.l.EntityEventHandler] [bookmaker-sdk-pool-1-thread-4] [WARN] User handler for onMatchListReceived threw exception
+java.lang.ClassCastException: [Ljava.lang.Object; cannot be cast to [Lcom.sportradar.sdk.feed.common.entities.EventIdentifier;
+	at sportradartest.UI.displayMatches(UI.java:128) ~[classes/:na]
+	at sportradartest.LiveScoutFeedListenerImpl.onMatchListReceived(LiveScoutFeedListenerImpl.java:85) ~[classes/:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchMatchList(EntityEventHandler.java:123) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.LoggingEntityEventHandler.dispatchMatchList(LoggingEntityEventHandler.java:117) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.StatisticsLiveScoutEntityEventHandler.dispatchMatchList(StatisticsLiveScoutEntityEventHandler.java:101) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchEntity(EntityEventHandler.java:196) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:85) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:18) [sdk.jar:na]
+	at com.sportradar.sdk.shaded.com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:133) [sdk.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_131]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_131]
+2017-07-06 16:21:30,281 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.IllegalArgumentException: null
+	at com.sportradar.sdk.shaded.com.google.common.base.Preconditions.checkArgument(Preconditions.java:108) ~[sdk.jar:na]
+	at com.sportradar.common.classes.MyPreconditions.checkNotNull(MyPreconditions.java:16) ~[sdk.jar:na]
+	at com.sportradar.sdk.feed.livescout.classes.LiveScoutUserRequestManagerImpl.subscribe(LiveScoutUserRequestManagerImpl.java:191) ~[sdk.jar:na]
+	at com.sportradar.sdk.feed.livescout.classes.LiveScoutFeedImpl.subscribe(LiveScoutFeedImpl.java:179) ~[sdk.jar:na]
+	at sportradartest.SportradarTest.subscribeMatch(SportradarTest.java:47) ~[classes/:na]
+	at sportradartest.UI$3.actionPerformed(UI.java:95) ~[classes/:na]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022) ~[na:1.8.0_131]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348) ~[na:1.8.0_131]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402) ~[na:1.8.0_131]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252) ~[na:1.8.0_131]
+	at java.awt.Component.processMouseEvent(Component.java:6533) ~[na:1.8.0_131]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324) ~[na:1.8.0_131]
+	at java.awt.Component.processEvent(Component.java:6298) ~[na:1.8.0_131]
+	at java.awt.Container.processEvent(Container.java:2236) ~[na:1.8.0_131]
+	at java.awt.Component.dispatchEventImpl(Component.java:4889) ~[na:1.8.0_131]
+	at java.awt.Container.dispatchEventImpl(Container.java:2294) ~[na:1.8.0_131]
+	at java.awt.Component.dispatchEvent(Component.java:4711) ~[na:1.8.0_131]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888) ~[na:1.8.0_131]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525) ~[na:1.8.0_131]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466) ~[na:1.8.0_131]
+	at java.awt.Container.dispatchEventImpl(Container.java:2280) ~[na:1.8.0_131]
+	at java.awt.Window.dispatchEventImpl(Window.java:2746) ~[na:1.8.0_131]
+	at java.awt.Component.dispatchEvent(Component.java:4711) ~[na:1.8.0_131]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758) ~[na:1.8.0_131]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) ~[na:1.8.0_131]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) ~[na:1.8.0_131]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) ~[na:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) ~[na:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90) ~[na:1.8.0_131]
+	at java.awt.EventQueue$4.run(EventQueue.java:731) ~[na:1.8.0_131]
+	at java.awt.EventQueue$4.run(EventQueue.java:729) ~[na:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) ~[na:1.8.0_131]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728) ~[na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [na:1.8.0_131]
+2017-07-06 16:22:02,522 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 16:22:04,462 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 16:22:09,217 [c.s.s.d.l.EntityEventHandler] [bookmaker-sdk-pool-1-thread-4] [WARN] User handler for onMatchListReceived threw exception
+java.lang.NullPointerException: null
+	at java.util.ArrayList.toArray(ArrayList.java:405) ~[na:1.8.0_131]
+	at sportradartest.UI.displayMatches(UI.java:128) ~[classes/:na]
+	at sportradartest.LiveScoutFeedListenerImpl.onMatchListReceived(LiveScoutFeedListenerImpl.java:85) ~[classes/:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchMatchList(EntityEventHandler.java:123) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.LoggingEntityEventHandler.dispatchMatchList(LoggingEntityEventHandler.java:117) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.StatisticsLiveScoutEntityEventHandler.dispatchMatchList(StatisticsLiveScoutEntityEventHandler.java:101) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchEntity(EntityEventHandler.java:196) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:85) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:18) [sdk.jar:na]
+	at com.sportradar.sdk.shaded.com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:133) [sdk.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_131]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_131]
+2017-07-06 16:23:44,879 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 16:23:46,825 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 16:23:51,314 [c.s.s.d.l.EntityEventHandler] [bookmaker-sdk-pool-1-thread-4] [WARN] User handler for onMatchListReceived threw exception
+java.lang.NullPointerException: null
+	at java.util.ArrayList.toArray(ArrayList.java:405) ~[na:1.8.0_131]
+	at sportradartest.UI.displayMatches(UI.java:128) ~[classes/:na]
+	at sportradartest.LiveScoutFeedListenerImpl.onMatchListReceived(LiveScoutFeedListenerImpl.java:85) ~[classes/:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchMatchList(EntityEventHandler.java:123) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.LoggingEntityEventHandler.dispatchMatchList(LoggingEntityEventHandler.java:117) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.StatisticsLiveScoutEntityEventHandler.dispatchMatchList(StatisticsLiveScoutEntityEventHandler.java:101) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchEntity(EntityEventHandler.java:196) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:85) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:18) [sdk.jar:na]
+	at com.sportradar.sdk.shaded.com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:133) [sdk.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_131]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_131]
+2017-07-06 16:23:53,967 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.IllegalArgumentException: null
+	at com.sportradar.sdk.shaded.com.google.common.base.Preconditions.checkArgument(Preconditions.java:108) ~[sdk.jar:na]
+	at com.sportradar.common.classes.MyPreconditions.checkNotNull(MyPreconditions.java:16) ~[sdk.jar:na]
+	at com.sportradar.sdk.feed.livescout.classes.LiveScoutUserRequestManagerImpl.subscribe(LiveScoutUserRequestManagerImpl.java:191) ~[sdk.jar:na]
+	at com.sportradar.sdk.feed.livescout.classes.LiveScoutFeedImpl.subscribe(LiveScoutFeedImpl.java:179) ~[sdk.jar:na]
+	at sportradartest.SportradarTest.subscribeMatch(SportradarTest.java:47) ~[classes/:na]
+	at sportradartest.UI$3.actionPerformed(UI.java:95) ~[classes/:na]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022) ~[na:1.8.0_131]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348) ~[na:1.8.0_131]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402) ~[na:1.8.0_131]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252) ~[na:1.8.0_131]
+	at java.awt.Component.processMouseEvent(Component.java:6533) ~[na:1.8.0_131]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324) ~[na:1.8.0_131]
+	at java.awt.Component.processEvent(Component.java:6298) ~[na:1.8.0_131]
+	at java.awt.Container.processEvent(Container.java:2236) ~[na:1.8.0_131]
+	at java.awt.Component.dispatchEventImpl(Component.java:4889) ~[na:1.8.0_131]
+	at java.awt.Container.dispatchEventImpl(Container.java:2294) ~[na:1.8.0_131]
+	at java.awt.Component.dispatchEvent(Component.java:4711) ~[na:1.8.0_131]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888) ~[na:1.8.0_131]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525) ~[na:1.8.0_131]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466) ~[na:1.8.0_131]
+	at java.awt.Container.dispatchEventImpl(Container.java:2280) ~[na:1.8.0_131]
+	at java.awt.Window.dispatchEventImpl(Window.java:2746) ~[na:1.8.0_131]
+	at java.awt.Component.dispatchEvent(Component.java:4711) ~[na:1.8.0_131]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758) ~[na:1.8.0_131]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) ~[na:1.8.0_131]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) ~[na:1.8.0_131]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) ~[na:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) ~[na:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90) ~[na:1.8.0_131]
+	at java.awt.EventQueue$4.run(EventQueue.java:731) ~[na:1.8.0_131]
+	at java.awt.EventQueue$4.run(EventQueue.java:729) ~[na:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) ~[na:1.8.0_131]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728) ~[na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [na:1.8.0_131]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [na:1.8.0_131]
+2017-07-06 16:30:50,256 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 16:30:52,516 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 16:31:08,062 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+	at sun.font.GlyphList.ensureCapacity(GlyphList.java:173) ~[na:1.8.0_131]
+	at sun.font.GlyphList.setFromChars(GlyphList.java:260) ~[na:1.8.0_131]
+	at sun.java2d.pipe.GlyphListPipe.drawChars(GlyphListPipe.java:103) ~[na:1.8.0_131]
+	at sun.java2d.SunGraphics2D.drawChars(SunGraphics2D.java:3036) ~[na:1.8.0_131]
+	at sun.swing.SwingUtilities2.drawChars(SwingUtilities2.java:857) ~[na:1.8.0_131]
+	at javax.swing.text.Utilities.drawTabbedText(Utilities.java:187) ~[na:1.8.0_131]
+	at javax.swing.text.Utilities.drawTabbedText(Utilities.java:106) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawUnselectedText(PlainView.java:154) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawElement(PlainView.java:113) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawLine(PlainView.java:82) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.paint(PlainView.java:311) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI$RootView.paint(BasicTextUI.java:1434) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.paintSafely(BasicTextUI.java:737) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.paint(BasicTextUI.java:881) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.update(BasicTextUI.java:860) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintComponent(JComponent.java:780) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paint(JComponent.java:1056) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintChildren(JComponent.java:889) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paint(JComponent.java:1065) ~[na:1.8.0_131]
+	at javax.swing.JViewport.paint(JViewport.java:728) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintChildren(JComponent.java:889) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paint(JComponent.java:1065) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintToOffscreen(JComponent.java:5210) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1579) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1502) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager.paint(RepaintManager.java:1272) ~[na:1.8.0_131]
+	at javax.swing.JComponent._paintImmediately(JComponent.java:5158) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintImmediately(JComponent.java:4969) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:831) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:814) ~[na:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) ~[na:1.8.0_131]
+2017-07-06 16:31:09,531 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+	at sun.font.GlyphList.ensureCapacity(GlyphList.java:173) ~[na:1.8.0_131]
+	at sun.font.GlyphList.setFromChars(GlyphList.java:260) ~[na:1.8.0_131]
+	at sun.java2d.pipe.GlyphListPipe.drawChars(GlyphListPipe.java:103) ~[na:1.8.0_131]
+	at sun.java2d.SunGraphics2D.drawChars(SunGraphics2D.java:3036) ~[na:1.8.0_131]
+	at sun.swing.SwingUtilities2.drawChars(SwingUtilities2.java:857) ~[na:1.8.0_131]
+	at javax.swing.text.Utilities.drawTabbedText(Utilities.java:187) ~[na:1.8.0_131]
+	at javax.swing.text.Utilities.drawTabbedText(Utilities.java:106) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawUnselectedText(PlainView.java:154) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawElement(PlainView.java:113) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawLine(PlainView.java:82) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.paint(PlainView.java:311) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI$RootView.paint(BasicTextUI.java:1434) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.paintSafely(BasicTextUI.java:737) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.paint(BasicTextUI.java:881) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.update(BasicTextUI.java:860) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintComponent(JComponent.java:780) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paint(JComponent.java:1056) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintChildren(JComponent.java:889) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paint(JComponent.java:1065) ~[na:1.8.0_131]
+	at javax.swing.JViewport.paint(JViewport.java:728) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintChildren(JComponent.java:889) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paint(JComponent.java:1065) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintToOffscreen(JComponent.java:5210) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1579) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1502) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager.paint(RepaintManager.java:1272) ~[na:1.8.0_131]
+	at javax.swing.JComponent._paintImmediately(JComponent.java:5158) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintImmediately(JComponent.java:4969) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:831) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:814) ~[na:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) ~[na:1.8.0_131]
+2017-07-06 16:31:09,965 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+	at sun.font.GlyphList.ensureCapacity(GlyphList.java:173) ~[na:1.8.0_131]
+	at sun.font.GlyphList.setFromChars(GlyphList.java:260) ~[na:1.8.0_131]
+	at sun.java2d.pipe.GlyphListPipe.drawChars(GlyphListPipe.java:103) ~[na:1.8.0_131]
+	at sun.java2d.SunGraphics2D.drawChars(SunGraphics2D.java:3036) ~[na:1.8.0_131]
+	at sun.swing.SwingUtilities2.drawChars(SwingUtilities2.java:857) ~[na:1.8.0_131]
+	at javax.swing.text.Utilities.drawTabbedText(Utilities.java:187) ~[na:1.8.0_131]
+	at javax.swing.text.Utilities.drawTabbedText(Utilities.java:106) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawUnselectedText(PlainView.java:154) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawElement(PlainView.java:113) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawLine(PlainView.java:82) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.paint(PlainView.java:311) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI$RootView.paint(BasicTextUI.java:1434) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.paintSafely(BasicTextUI.java:737) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.paint(BasicTextUI.java:881) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.update(BasicTextUI.java:860) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintComponent(JComponent.java:780) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paint(JComponent.java:1056) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintToOffscreen(JComponent.java:5210) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1579) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1502) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager.paint(RepaintManager.java:1272) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintForceDoubleBuffered(JComponent.java:1092) ~[na:1.8.0_131]
+	at javax.swing.JViewport.paintView(JViewport.java:1626) ~[na:1.8.0_131]
+	at javax.swing.JViewport.flushViewDirtyRegion(JViewport.java:1508) ~[na:1.8.0_131]
+	at javax.swing.JViewport.setViewPosition(JViewport.java:1093) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicScrollPaneUI$Handler.hsbStateChanged(BasicScrollPaneUI.java:1088) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicScrollPaneUI$Handler.stateChanged(BasicScrollPaneUI.java:1039) ~[na:1.8.0_131]
+	at javax.swing.DefaultBoundedRangeModel.fireStateChanged(DefaultBoundedRangeModel.java:364) ~[na:1.8.0_131]
+	at javax.swing.DefaultBoundedRangeModel.setRangeProperties(DefaultBoundedRangeModel.java:302) ~[na:1.8.0_131]
+	at javax.swing.DefaultBoundedRangeModel.setValue(DefaultBoundedRangeModel.java:168) ~[na:1.8.0_131]
+	at javax.swing.JScrollBar.setValue(JScrollBar.java:477) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicScrollBarUI$TrackListener.setValueFrom(BasicScrollBarUI.java:1257) ~[na:1.8.0_131]
+2017-07-06 16:31:10,405 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+	at sun.font.GlyphList.ensureCapacity(GlyphList.java:173) ~[na:1.8.0_131]
+	at sun.font.GlyphList.setFromChars(GlyphList.java:260) ~[na:1.8.0_131]
+	at sun.java2d.pipe.GlyphListPipe.drawChars(GlyphListPipe.java:103) ~[na:1.8.0_131]
+	at sun.java2d.SunGraphics2D.drawChars(SunGraphics2D.java:3036) ~[na:1.8.0_131]
+	at sun.swing.SwingUtilities2.drawChars(SwingUtilities2.java:857) ~[na:1.8.0_131]
+	at javax.swing.text.Utilities.drawTabbedText(Utilities.java:187) ~[na:1.8.0_131]
+	at javax.swing.text.Utilities.drawTabbedText(Utilities.java:106) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawUnselectedText(PlainView.java:154) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawElement(PlainView.java:113) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.drawLine(PlainView.java:82) ~[na:1.8.0_131]
+	at javax.swing.text.PlainView.paint(PlainView.java:311) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI$RootView.paint(BasicTextUI.java:1434) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.paintSafely(BasicTextUI.java:737) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.paint(BasicTextUI.java:881) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicTextUI.update(BasicTextUI.java:860) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintComponent(JComponent.java:780) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paint(JComponent.java:1056) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintToOffscreen(JComponent.java:5210) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1579) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1502) ~[na:1.8.0_131]
+	at javax.swing.RepaintManager.paint(RepaintManager.java:1272) ~[na:1.8.0_131]
+	at javax.swing.JComponent.paintForceDoubleBuffered(JComponent.java:1092) ~[na:1.8.0_131]
+	at javax.swing.JViewport.paintView(JViewport.java:1626) ~[na:1.8.0_131]
+	at javax.swing.JViewport.flushViewDirtyRegion(JViewport.java:1508) ~[na:1.8.0_131]
+	at javax.swing.JViewport.setViewPosition(JViewport.java:1093) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicScrollPaneUI$Handler.hsbStateChanged(BasicScrollPaneUI.java:1088) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicScrollPaneUI$Handler.stateChanged(BasicScrollPaneUI.java:1039) ~[na:1.8.0_131]
+	at javax.swing.DefaultBoundedRangeModel.fireStateChanged(DefaultBoundedRangeModel.java:364) ~[na:1.8.0_131]
+	at javax.swing.DefaultBoundedRangeModel.setRangeProperties(DefaultBoundedRangeModel.java:302) ~[na:1.8.0_131]
+	at javax.swing.DefaultBoundedRangeModel.setValueIsAdjusting(DefaultBoundedRangeModel.java:231) ~[na:1.8.0_131]
+	at javax.swing.JScrollBar.setValueIsAdjusting(JScrollBar.java:594) ~[na:1.8.0_131]
+	at javax.swing.plaf.basic.BasicScrollBarUI$TrackListener.mouseReleased(BasicScrollBarUI.java:1090) ~[na:1.8.0_131]
+2017-07-06 16:31:12,170 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:14,074 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:16,619 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:18,896 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:20,002 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:50,821 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:50,951 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:51,086 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:51,224 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:51,360 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:51,495 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:51,691 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:51,939 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:52,483 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:52,759 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:55,925 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:56,141 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:56,356 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:56,571 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:57,609 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:57,822 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:58,039 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:58,255 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:59,047 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:59,264 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:59,480 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:31:59,695 [c.s.s.f.s.Sdk] [AWT-EventQueue-0] [ERROR] Uncaught exception in SDK logged
+java.lang.OutOfMemoryError: Java heap space
+2017-07-06 16:32:37,605 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 16:32:40,000 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 16:38:54,205 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 16:38:56,518 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:00:27,484 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:00:29,736 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:02:27,066 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 2, next check in 3687 ms
+2017-07-06 17:02:30,755 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 1, next check in 6596 ms
+2017-07-06 17:02:37,353 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 0 ms
+2017-07-06 17:02:37,354 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 17:03:20,188 [c.s.s.d.l.EntityEventHandler] [bookmaker-sdk-pool-1-thread-4] [WARN] User handler for onMatchListReceived threw exception
+java.lang.UnsupportedOperationException: null
+	at java.util.Collections$UnmodifiableCollection.add(Collections.java:1055) ~[na:1.8.0_131]
+	at sportradartest.LiveScoutFeedListenerImpl.onMatchListReceived(LiveScoutFeedListenerImpl.java:81) ~[classes/:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchMatchList(EntityEventHandler.java:123) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.LoggingEntityEventHandler.dispatchMatchList(LoggingEntityEventHandler.java:117) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.StatisticsLiveScoutEntityEventHandler.dispatchMatchList(StatisticsLiveScoutEntityEventHandler.java:101) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchEntity(EntityEventHandler.java:196) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:85) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:18) [sdk.jar:na]
+	at com.sportradar.sdk.shaded.com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:133) [sdk.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_131]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_131]
+2017-07-06 17:04:37,362 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 1, next check in 40429 ms
+2017-07-06 17:05:17,795 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 0 ms
+2017-07-06 17:05:17,796 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 17:13:30,306 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:13:32,685 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:16:53,104 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:16:55,007 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:17:32,967 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:17:35,307 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:24:12,163 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:24:14,410 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:30:11,701 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:30:13,914 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:42:16,297 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:42:18,616 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:43:44,729 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:43:46,929 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:45:00,902 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:45:02,807 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:51:33,747 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:51:35,945 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:56:10,831 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:56:12,795 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:58:51,560 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 17:58:54,907 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 17:59:03,130 [c.s.s.d.l.EntityEventHandler] [bookmaker-sdk-pool-1-thread-4] [WARN] User handler for onMatchListReceived threw exception
+java.lang.UnsupportedOperationException: null
+	at java.util.Collections$UnmodifiableCollection.add(Collections.java:1055) ~[na:1.8.0_131]
+	at sportradartest.LiveScoutFeedListenerImpl.onMatchListReceived(LiveScoutFeedListenerImpl.java:81) ~[classes/:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchMatchList(EntityEventHandler.java:123) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.LoggingEntityEventHandler.dispatchMatchList(LoggingEntityEventHandler.java:117) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.StatisticsLiveScoutEntityEventHandler.dispatchMatchList(StatisticsLiveScoutEntityEventHandler.java:101) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchEntity(EntityEventHandler.java:196) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:85) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:18) [sdk.jar:na]
+	at com.sportradar.sdk.shaded.com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:133) [sdk.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_131]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_131]
+2017-07-06 18:00:51,175 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 5, next check in 3402 ms
+2017-07-06 18:00:54,579 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 4, next check in 6525 ms
+2017-07-06 18:01:19,822 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 18:01:22,036 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 18:05:01,735 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 18:05:03,759 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 18:07:01,381 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 11, next check in 3175 ms
+2017-07-06 18:07:04,558 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 10, next check in 5424 ms
+2017-07-06 18:07:09,984 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 10, next check in 15156 ms
+2017-07-06 18:07:25,142 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 10, next check in 12619 ms
+2017-07-06 18:07:37,764 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 10, next check in 10910 ms
+2017-07-06 18:07:48,676 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 9, next check in 15640 ms
+2017-07-06 18:07:56,268 [c.s.s.d.l.EntityEventHandler] [bookmaker-sdk-pool-1-thread-4] [WARN] User handler for onMatchListReceived threw exception
+java.lang.UnsupportedOperationException: null
+	at java.util.Collections$UnmodifiableCollection.add(Collections.java:1055) ~[na:1.8.0_131]
+	at sportradartest.LiveScoutFeedListenerImpl.onMatchListReceived(LiveScoutFeedListenerImpl.java:81) ~[classes/:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchMatchList(EntityEventHandler.java:123) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.LoggingEntityEventHandler.dispatchMatchList(LoggingEntityEventHandler.java:117) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.StatisticsLiveScoutEntityEventHandler.dispatchMatchList(StatisticsLiveScoutEntityEventHandler.java:101) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.dispatchEntity(EntityEventHandler.java:196) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:85) [sdk.jar:na]
+	at com.sportradar.sdk.dispatch.livescout.EntityEventHandler.onEvent(EntityEventHandler.java:18) [sdk.jar:na]
+	at com.sportradar.sdk.shaded.com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:133) [sdk.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_131]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_131]
+2017-07-06 18:08:04,318 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 9, next check in 7519 ms
+2017-07-06 18:08:11,839 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 10, next check in 5140 ms
+2017-07-06 18:08:16,981 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 9, next check in 5214 ms
+2017-07-06 18:08:22,196 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 8, next check in 10097 ms
+2017-07-06 18:08:32,295 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 7, next check in 20733 ms
+2017-07-06 18:09:10,193 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 18:09:12,513 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 18:11:09,842 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 1, next check in 1371 ms
+2017-07-06 18:11:11,215 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 0 ms
+2017-07-06 18:11:11,216 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 18:13:11,223 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:10:28,889 [c.s.c.n.TcpGateway] [AWT-EventQueue-0] [INFO] Connection to the server scout.betradar.com:2017 established
+2017-07-06 20:10:31,549 [c.s.s.p.LiveFeedProtocol] [bookmaker-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2017-07-06 20:12:28,515 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 1, next check in 4742 ms
+2017-07-06 20:12:33,259 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 0 ms
+2017-07-06 20:12:33,260 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:14:33,267 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:16:33,275 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:18:33,283 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:20:33,290 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:22:33,298 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 4, next check in 8864 ms
+2017-07-06 20:22:42,164 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 3, next check in 11634 ms
+2017-07-06 20:22:53,800 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 2, next check in 79976 ms
+2017-07-06 20:24:13,781 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 1, next check in 15598 ms
+2017-07-06 20:24:29,381 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 0 ms
+2017-07-06 20:24:29,381 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:26:29,389 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:28:29,396 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:30:29,403 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:32:29,410 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:34:29,417 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:36:29,424 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:38:29,431 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:40:29,438 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:42:29,445 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:44:29,452 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:46:29,459 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:48:29,466 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:50:29,473 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:52:29,480 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:54:29,487 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:56:29,494 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 20:58:29,502 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 21:00:29,509 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 21:02:29,516 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2017-07-06 21:04:29,523 [c.s.c.r.SimpleRateGate] [bookmaker-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
